@@ -42,7 +42,7 @@
 
 \- `/Project\_ShirobokovaPartnerApp` - исходный код
 
-\- `/ShirobokovaPartnerApp.exe` - собранный исполняемый файл
+\- `/Executable` - собранный исполняемый файл
 
 \- `/Screenshot` - скриншоты 
 
