@@ -1,0 +1,30 @@
+# Visual Studio
+bin/
+obj/
+Debug/
+Release/
+.vs/
+*.user
+*.suo
+
+# Git
+.git/
+
+# Logs
+*.log
+Logs/
+
+# Database
+*.mdf
+*.ldf
+
+# Executables
+*.exe
+*.dll
+
+# Temp files
+*.tmp
+*.temp
+
+# User settings
+*.userprefs
